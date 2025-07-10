@@ -136,5 +136,8 @@ DELETE product
 Running Unit Tests
 bash
 mvn test
+Project Structure
+![Uploading image.png…]()
+
 
 
