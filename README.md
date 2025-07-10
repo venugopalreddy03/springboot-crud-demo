@@ -1,5 +1,6 @@
 Product Management System - Spring Boot CRUD Application with MySQL (AWS RDS)
 ![image](https://github.com/user-attachments/assets/4ef8d9ff-05b2-446f-ab87-f460e7db1a2b)
+Project Structure
 ![Screenshot 2025-07-10 112225](https://github.com/user-attachments/assets/59fc9cd6-ea14-4d0e-8399-f6d6832540c9)
 
 Overview
@@ -139,8 +140,6 @@ Running Unit Tests
 bash
 mvn test
 
-Project Structure
-![Uploading Screenshot 2025-07-10 112225.png…]()
 
 
 
