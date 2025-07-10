@@ -74,17 +74,28 @@ Maven (for dependency management)
 
 API Endpoints
 Method	Endpoint	Description
+
 GET	/api/products	Get all products
+
 GET	/api/products/{id}	Get a single product by ID
+
 POST	/api/products	Create a new product
+
 PUT	/api/products/{id}	Update an existing product
+
 DELETE	/api/products/{id}	Delete a product
+
 Web Interface Routes
 Route	Description
+
 /products	View all products (homepage)
+
 /products/new	Form to create new product
+
 /products/edit/{id}	Form to edit existing product
+
 /products/delete/{id}	Delete a product
+
 Setup Instructions
 Prerequisites
 Java 17 JDK
@@ -138,6 +149,7 @@ DELETE product
 
 Running Unit Tests
 bash
+
 mvn test
 
 
