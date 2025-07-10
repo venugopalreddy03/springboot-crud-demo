@@ -6,15 +6,15 @@ Project Structure
 Overview
 This is a complete Spring Boot application demonstrating CRUD (Create, Read, Update, Delete) operations with:
 
-RESTful APIs
+*RESTful APIs
 
-MySQL database hosted on AWS RDS
+*MySQL database hosted on AWS RDS
 
-HTML frontend using Thymeleaf
+*HTML frontend using Thymeleaf
 
-Comprehensive exception handling
+*Comprehensive exception handling
 
-JUnit tests
+*JUnit tests
 
 Features
 Product Management:
