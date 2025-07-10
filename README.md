@@ -135,19 +135,5 @@ DELETE product
 Running Unit Tests
 bash
 mvn test
-Project Structure
-text
-src/
-├── main/
-│   ├── java/com/example/demo/
-│   │   ├── controller/      # REST and MVC controllers
-│   │   ├── exception/       # Exception handling
-│   │   ├── model/           # Entity classes
-│   │   ├── repository/      # JPA repositories
-│   │   ├── service/         # Business logic
-│   │   └── DemoApplication.java
-│   └── resources/
-│       ├── static/          # CSS, JS
-│       ├── templates/       # Thymeleaf HTML templates
-│       └── application.properties
-└── test/                    # Unit tests
+
+
