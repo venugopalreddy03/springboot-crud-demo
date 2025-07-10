@@ -1,4 +1,5 @@
 Product Management System - Spring Boot CRUD Application with MySQL (AWS RDS)
+![image](https://github.com/user-attachments/assets/4ef8d9ff-05b2-446f-ab87-f460e7db1a2b)
 Overview
 This is a complete Spring Boot application demonstrating CRUD (Create, Read, Update, Delete) operations with:
 
